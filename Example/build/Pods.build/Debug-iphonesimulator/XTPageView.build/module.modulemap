@@ -1,0 +1,11 @@
+framework module XTPageView {
+  umbrella header "XTPageView-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module XTPageView.Swift {
+  header "XTPageView-Swift.h"
+  requires objc
+}

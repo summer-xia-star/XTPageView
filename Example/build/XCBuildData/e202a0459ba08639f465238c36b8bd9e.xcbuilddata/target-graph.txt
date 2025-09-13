@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'Pods-XTPageView_Example' in project 'Pods'
+➜ Explicit dependency on target 'XTPageView' in project 'Pods'
+Target 'XTPageView' in project 'Pods' (no dependencies)

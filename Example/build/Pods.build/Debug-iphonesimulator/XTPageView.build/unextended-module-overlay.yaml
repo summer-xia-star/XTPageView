@@ -1,0 +1,23 @@
+{
+  "version": 0,
+  "use-external-names": false,
+  "case-sensitive": false,
+  "roots": [{
+    "type": "directory",
+    "name": "/Users/tianxia/Desktop/XTPageView/Example/build/Debug-iphonesimulator/XTPageView/XTPageView.framework/Modules",
+    "contents": [{
+      "type": "file",
+      "name": "module.modulemap",
+      "external-contents": "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    "type": "directory",
+    "name": "/Users/tianxia/Desktop/XTPageView/Example/build/Debug-iphonesimulator/XTPageView/XTPageView.framework/Headers",
+    "contents": [{
+      "type": "file",
+      "name": "XTPageView-Swift.h",
+      "external-contents": "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/unextended-interface-header.h",
+    }]
+  }]
+}

@@ -1,0 +1,108 @@
+{
+  "" : {
+    "diagnostics" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTPageView-master.dia",
+    "emit-module-dependencies" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTPageView-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTPageView-master-emit-module.dia",
+    "swift-dependencies" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTPageView-master.swiftdeps"
+  },
+  "/Users/tianxia/Desktop/XTPageView/XTPageView/Classes/Utils/UIColor.swift" : {
+    "const-values" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/UIColor.swiftconstvalues",
+    "dependencies" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/UIColor.d",
+    "diagnostics" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/UIColor.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/UIColor.o",
+    "llvm-bc" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/UIColor.bc",
+    "object" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/UIColor.o",
+    "swift-dependencies" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/UIColor.swiftdeps",
+    "swiftmodule" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/UIColor~partial.swiftmodule"
+  },
+  "/Users/tianxia/Desktop/XTPageView/XTPageView/Classes/XTAnchorViewController.swift" : {
+    "const-values" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTAnchorViewController.swiftconstvalues",
+    "dependencies" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTAnchorViewController.d",
+    "diagnostics" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTAnchorViewController.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTAnchorViewController.o",
+    "llvm-bc" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTAnchorViewController.bc",
+    "object" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTAnchorViewController.o",
+    "swift-dependencies" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTAnchorViewController.swiftdeps",
+    "swiftmodule" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTAnchorViewController~partial.swiftmodule"
+  },
+  "/Users/tianxia/Desktop/XTPageView/XTPageView/Classes/XTContentView.swift" : {
+    "const-values" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTContentView.swiftconstvalues",
+    "dependencies" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTContentView.d",
+    "diagnostics" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTContentView.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTContentView.o",
+    "llvm-bc" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTContentView.bc",
+    "object" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTContentView.o",
+    "swift-dependencies" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTContentView.swiftdeps",
+    "swiftmodule" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTContentView~partial.swiftmodule"
+  },
+  "/Users/tianxia/Desktop/XTPageView/XTPageView/Classes/XTHoverPageViewController.swift" : {
+    "const-values" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTHoverPageViewController.swiftconstvalues",
+    "dependencies" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTHoverPageViewController.d",
+    "diagnostics" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTHoverPageViewController.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTHoverPageViewController.o",
+    "llvm-bc" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTHoverPageViewController.bc",
+    "object" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTHoverPageViewController.o",
+    "swift-dependencies" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTHoverPageViewController.swiftdeps",
+    "swiftmodule" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTHoverPageViewController~partial.swiftmodule"
+  },
+  "/Users/tianxia/Desktop/XTPageView/XTPageView/Classes/XTPageCollectionLayout.swift" : {
+    "const-values" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTPageCollectionLayout.swiftconstvalues",
+    "dependencies" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTPageCollectionLayout.d",
+    "diagnostics" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTPageCollectionLayout.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTPageCollectionLayout.o",
+    "llvm-bc" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTPageCollectionLayout.bc",
+    "object" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTPageCollectionLayout.o",
+    "swift-dependencies" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTPageCollectionLayout.swiftdeps",
+    "swiftmodule" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTPageCollectionLayout~partial.swiftmodule"
+  },
+  "/Users/tianxia/Desktop/XTPageView/XTPageView/Classes/XTPageCollectionView.swift" : {
+    "const-values" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTPageCollectionView.swiftconstvalues",
+    "dependencies" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTPageCollectionView.d",
+    "diagnostics" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTPageCollectionView.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTPageCollectionView.o",
+    "llvm-bc" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTPageCollectionView.bc",
+    "object" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTPageCollectionView.o",
+    "swift-dependencies" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTPageCollectionView.swiftdeps",
+    "swiftmodule" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTPageCollectionView~partial.swiftmodule"
+  },
+  "/Users/tianxia/Desktop/XTPageView/XTPageView/Classes/XTPageView.swift" : {
+    "const-values" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTPageView.swiftconstvalues",
+    "dependencies" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTPageView.d",
+    "diagnostics" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTPageView.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTPageView.o",
+    "llvm-bc" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTPageView.bc",
+    "object" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTPageView.o",
+    "swift-dependencies" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTPageView.swiftdeps",
+    "swiftmodule" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTPageView~partial.swiftmodule"
+  },
+  "/Users/tianxia/Desktop/XTPageView/XTPageView/Classes/XTTitleStyle.swift" : {
+    "const-values" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTTitleStyle.swiftconstvalues",
+    "dependencies" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTTitleStyle.d",
+    "diagnostics" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTTitleStyle.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTTitleStyle.o",
+    "llvm-bc" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTTitleStyle.bc",
+    "object" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTTitleStyle.o",
+    "swift-dependencies" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTTitleStyle.swiftdeps",
+    "swiftmodule" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTTitleStyle~partial.swiftmodule"
+  },
+  "/Users/tianxia/Desktop/XTPageView/XTPageView/Classes/XTTitleView.swift" : {
+    "const-values" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTTitleView.swiftconstvalues",
+    "dependencies" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTTitleView.d",
+    "diagnostics" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTTitleView.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTTitleView.o",
+    "llvm-bc" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTTitleView.bc",
+    "object" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTTitleView.o",
+    "swift-dependencies" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTTitleView.swiftdeps",
+    "swiftmodule" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTTitleView~partial.swiftmodule"
+  },
+  "/Users/tianxia/Desktop/XTPageView/XTPageView/Classes/XTWaterfallFlowLayout.swift" : {
+    "const-values" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTWaterfallFlowLayout.swiftconstvalues",
+    "dependencies" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTWaterfallFlowLayout.d",
+    "diagnostics" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTWaterfallFlowLayout.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTWaterfallFlowLayout.o",
+    "llvm-bc" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTWaterfallFlowLayout.bc",
+    "object" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTWaterfallFlowLayout.o",
+    "swift-dependencies" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTWaterfallFlowLayout.swiftdeps",
+    "swiftmodule" : "/Users/tianxia/Desktop/XTPageView/Example/build/Pods.build/Debug-iphonesimulator/XTPageView.build/Objects-normal/arm64/XTWaterfallFlowLayout~partial.swiftmodule"
+  }
+}

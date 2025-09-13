@@ -1,0 +1,4 @@
+
+module XTPageView.__Swift {
+  exclude header "XTPageView-Swift.h"
+}

@@ -1,0 +1,5 @@
+
+module XTPageView.Swift {
+  header "XTPageView-Swift.h"
+  requires objc
+}

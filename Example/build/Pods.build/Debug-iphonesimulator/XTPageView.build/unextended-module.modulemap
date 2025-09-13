@@ -1,0 +1,10 @@
+framework module XTPageView {
+  umbrella header "XTPageView-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module XTPageView.__Swift {
+  exclude header "XTPageView-Swift.h"
+}
