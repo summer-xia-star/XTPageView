@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/summer-xia-star/XTPageView'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'summerrrxia' => 'summerrrxia@tencent.com' }
-  s.source           = { :git => 'https://github.com/summer-xia-star/XTPageView', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/summer-xia-star/XTPageView.git', :tag => s.version.to_s }
   s.swift_versions   = ['5.0']
   s.ios.deployment_target = '10.0'
   s.source_files = 'XTPageView/Classes/**/*'
