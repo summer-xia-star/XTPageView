@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.version          = '0.0.1'
   s.summary          = 'summary:仿照腾讯视频VIPTAB实现的页面框架'
   s.description      = 'description:仿照腾讯视频VIPTAB实现的页面框架'
-  s.homepage         = 'https://github.com/summerrrxia/XTPageView'
+  s.homepage         = 'https://github.com/summer-xia-star/XTPageView'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'summerrrxia' => 'summerrrxia@tencent.com' }
   s.source           = { :git => 'https://github.com/summerrrxia/XTPageView.git', :tag => s.version.to_s }
