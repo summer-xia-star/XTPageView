@@ -22,7 +22,7 @@ pod 'XTPageView'
 
 ## Author
 
-summerrrxia, summerrrxia@tencent.com
+summerrrxia, summerrrxia@foxmail.com
 
 ## License
 
